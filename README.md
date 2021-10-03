@@ -16,6 +16,20 @@ YouTube is the most popular and most used video platfrom in the world today. You
     Which YouTube channels have the largest number of trending videos?
     Which video category (e.g. Entertainment, Gaming, Comedy, etc.) has the largest number of trending videos?
     When were trending videos published? On which days of the week? at which times of the day?
+    
+# Dataset Used
+
+    https://www.kaggle.com/datasnaek/youtube-new
+
+Use Case 1 - Predicting the Category of YouTube Videos
+Classifiers used:
+
+    Multinomial Naive Bayes
+    Random Forest
+    Support Vector
+    K Neighbors
+    Decision Tree
+
 
 # Libraries Used
 
@@ -23,7 +37,6 @@ YouTube is the most popular and most used video platfrom in the world today. You
     Numpy ( pip install pandas )
     Matplotlib ( pip install matplotlib )
     Seaborn ( pip install seaborn )
-    Wordcloud ( pip install wordcloud )
 
                                    Show some ❤ by starring the repo if you liked the analysis.
                                    I'll be constantly updating the datasets and analysis. Thank You. 
