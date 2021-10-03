@@ -21,14 +21,30 @@ YouTube is the most popular and most used video platfrom in the world today. You
 
     https://www.kaggle.com/datasnaek/youtube-new
 
-Use Case 1 - Predicting the Category of YouTube Videos
-Classifiers used:
+# Table of contents
 
-    Multinomial Naive Bayes
-    Random Forest
-    Support Vector
-    K Neighbors
-    Decision Tree
+    Importing some packages
+    Reading the dataset
+    Getting a feel of the dataset
+    Data cleaning
+    Dataset collection years
+    Describtion of numerical columns
+        Views histogram
+        Likes histogram
+        Comment count histogram
+    Description on non-numerical columns
+    How many trending video titles contain capitalized word?
+    Video title lengths
+    Correlation between dataset variables
+    Most common words in video titles
+    Which channels have the largest number of trending videos?
+    Which video category has the largest number of trending videos?
+    Trending videos and their publishing time
+    How many trending videos have an error?
+    How many trending videos have their commets disabled?
+    How many trending videos have their ratings disabled?
+    How many videos have both comments and ratings disabled?
+    Conclusions
 
 
 # Libraries Used
